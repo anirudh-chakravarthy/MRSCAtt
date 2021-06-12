@@ -3,7 +3,7 @@
 Published in the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021, pp. 1961-1970     
 Anirudh S. Chakravarthy<sup>\*</sup>, Roshan Roy<sup>\*</sup>, Praveen Ravirathinam<sup>\*</sup>
 
-In this paper, we introduce MRSCAtt (Mars Rover Spatial and Channel Attention) a deep learning network which jointly uses spatial and channel attention to accurately classify images. We use images taken by NASA's Curiosity rover on Mars as a dataset to show the superiority of our approach by achieving state-of-the-art results with 81.53% test set accuracy on the MSL Surface Dataset, outperforming other methods. Implementation is done in Pytorch and we provide code for training and testing in the form of Jupyter notebooks for easy use.
+In this paper, we introduce MRSCAtt (Mars Rover Spatial and Channel Attention) a deep learning network which jointly uses spatial and channel attention to accurately classify images. We use images taken by NASA's Curiosity rover on Mars as a dataset to show the superiority of our approach by achieving state-of-the-art results with 81.53% test set accuracy on the MSL Surface Dataset, outperforming other methods. Implementation is done in PyTorch and we provide code for training and testing in the form of Jupyter notebooks for easy use.
 
 **Paper Link**: [![PaperLink](https://img.shields.io/static/v1?label=Paper%20Link&message=MRSCAtt&color=green)](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/html/Chakravarthy_MRSCAtt_A_Spatio-Channel_Attention-Guided_Network_for_Mars_Rover_Image_Classification_CVPRW_2021_paper.html)   
 **Full dataset available at**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1049137.svg)](https://doi.org/10.5281/zenodo.1049137)   
